@@ -1,3 +1,2 @@
 #My simple survey form
-Project for Freecodecamp
-[Live Preview](https://bokiledobri.github.io/survey-form/)
+[Live Preview](https://bokiledobri.github.io/survey-form-html-css/)
